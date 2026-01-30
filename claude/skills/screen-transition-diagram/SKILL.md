@@ -1,6 +1,6 @@
 ---
-name: screen-transition-diagram
-description: 画面遷移図(画面フロー図 / Screen flow / UI flow / Wireflow)を、要件・ユーザーストーリー・既存ルート・Figma構成・文章仕様から再現可能に作成/更新する。出力はMermaidのflowchartを基本とし、画面カタログ(画面ID/名称/状態/権限)と遷移カタログ(トリガー/条件/結果/例外)も併記する。例外系(失敗・戻り・未ログイン・権限不足・空状態)を必ず含め、スパゲッティ化する場合はユースケース単位で図を分割(L0/L1/L2)する。トリガー語: 画面遷移図, 画面フロー, UIフロー, screen flow, wireflow, 遷移図, フロー図, 画面一覧, 画面設計, 導線
+name: "screen-transition-diagram"
+description: "画面遷移図(画面フロー図 / Screen flow / UI flow / Wireflow)を、要件・ユーザーストーリー・既存ルート・Figma構成・文章仕様から再現可能に作成/更新する。出力はMermaidのflowchartを基本とし、画面カタログ(画面ID/名称/状態/権限)と遷移カタログ(トリガー/条件/結果/例外)も併記する。例外系(失敗・戻り・未ログイン・権限不足・空状態)を必ず含め、スパゲッティ化する場合はユースケース単位で図を分割(L0/L1/L2)する。トリガー語: 画面遷移図, 画面フロー, UIフロー, screen flow, wireflow, 遷移図, フロー図, 画面一覧, 画面設計, 導線"
 ---
 
 # Screen Transition Diagram Skill
